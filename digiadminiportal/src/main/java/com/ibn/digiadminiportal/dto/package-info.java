@@ -1,0 +1,1 @@
+package com.ibn.digiadminiportal.dto;
